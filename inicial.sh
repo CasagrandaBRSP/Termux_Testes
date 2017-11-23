@@ -19,4 +19,4 @@ apt install git
 apt install nano
 
 echo figlet "FSOCIETY" >> /data/data/com.termux/files/usr/etc/bash.bashrc 
-echo figlet echo -e "\033[1m \e[32m   Bem Vindo!" >> /data/data/com.termux/files/usr/etc/bash.bashrc 
+echo -e "\033[1m \e[32m   Bem Vindo!" >> /data/data/com.termux/files/usr/etc/bash.bashrc 
